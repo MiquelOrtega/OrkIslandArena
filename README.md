@@ -14,7 +14,7 @@ de vegades que ha quedat cert jugador en certa posició, i la seva posició mitj
 5. Executa python executa.py _AI AI AI AI partides_  
    Exemple: python executa.py _Dummy Dummy Dummy Dummy 100_
 
-## Objetos Linux
+## Objectes
 
 - Miquel
 

@@ -1,0 +1,17 @@
+OrkIsland 1.0
+nb_players          	    4
+rows                	   70
+cols                	   70
+nb_rounds           	  200
+initial_health   	  100   
+nb_orks			   15
+cost_grass		    1
+cost_forest		    2
+cost_sand		    3
+cost_city		    0
+cost_path		    0
+bonus_per_city_cell	    1
+bonus_per_path_cell	    1
+factor_connected_component  2
+
+GENERATOR1

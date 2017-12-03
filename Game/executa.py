@@ -47,7 +47,7 @@ try:
           maxim = llista[j]
     guany[0][jugador] += 1
     used[jugador] = 1
-    print("Ha guanyat " + PLAYERS[jugador])
+    print("Ha guanyat el jugador " + str(jugador+1) + ": " + PLAYERS[jugador])
     sys.stdout.flush()
     maxim = 0
     jugador = 1

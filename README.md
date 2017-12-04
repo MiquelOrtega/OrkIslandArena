@@ -23,4 +23,4 @@ de vegades que ha quedat cert jugador en certa posició, i la seva posició mitj
   
 - Ferran
 
-   -Ferran1
+  - Ferran1

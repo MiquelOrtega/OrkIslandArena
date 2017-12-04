@@ -19,3 +19,8 @@ de vegades que ha quedat cert jugador en certa posició, i la seva posició mitj
 - Miquel
 
   - Polifem
+  - Aracne
+  
+- Ferran
+
+   -Ferran1

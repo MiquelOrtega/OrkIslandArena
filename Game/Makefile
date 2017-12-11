@@ -7,7 +7,7 @@
 #DUMMY_OBJ = AIDummy.o.macOS
 
 # Add here any extra .o player files you want to link to the executable
-EXTRA_OBJ = $(wildcard ../Objectes/AI*.o) ../Objectes/AIDummy.o.Linux64
+EXTRA_OBJ = $(wildcard ../Objectes/AI*.o)
 
 # Configuration
 OPTIMIZE = 2 # Optimization level    (0 to 3)
@@ -34,8 +34,8 @@ ifeq ($(strip $(DEBUG)),1)
 	DEBUGFLAGS=-g
 endif
 
-CXXFLAGS = -std=c++11 -Wall -Wno-unused-variable $(PROFILEFLAGS) $(DEBUGFLAGS) -O$(strip $(OPTIMIZE))
-LDFLAGS  = -std=c++11                            $(PROFILEFLAGS) $(DEBUGFLAGS) -O$(strip $(OPTIMIZE))
+CXXFLAGS = -std=c++11 -fPIC -Wall -Wno-unused-variable $(PROFILEFLAGS) $(DEBUGFLAGS) -O$(strip $(OPTIMIZE))
+LDFLAGS  = -std=c++11 -fPIC                           $(PROFILEFLAGS) $(DEBUGFLAGS) -O$(strip $(OPTIMIZE))
 
 
 # Rules

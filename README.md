@@ -24,13 +24,18 @@ de vegades que ha quedat cert jugador en certa posició, i la seva posició mitj
 - Ferran
 
   - Ferran1
+  - Creilla1
   
 - Jordi
 
-   - Barbabrat
+   - Barbarbrat
+   - Barbarbrat3
 
 - Martí
 
    - Marti1
    - Marti3
    - Marti5
+
+- Òscar
+   - obs

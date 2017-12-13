@@ -20,6 +20,7 @@ de vegades que ha quedat cert jugador en certa posició, i la seva posició mitj
 
   - Polifem
   - Aracne
+  - Cassandra
   
 - Ferran
 
@@ -38,4 +39,10 @@ de vegades que ha quedat cert jugador en certa posició, i la seva posició mitj
    - Marti5
 
 - Òscar
-   - obs
+  - obs
+  - En_Se_mesmes
+  - En_Ce_MesMes
+  - En_Se_MesMes
+
+- Taulé
+  - TauleritowX (X \in \mathbb{N})

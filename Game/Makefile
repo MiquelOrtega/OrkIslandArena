@@ -1,5 +1,5 @@
 # To play with the Dummy, uncomment the line for your platform:
-#DUMMY_OBJ = AIDummy.o.Linux64
+DUMMY_OBJ = ../Objectes/AIDummy.o.Linux64
 #DUMMY_OBJ = AIDummy.o.Linux32
 #DUMMY_OBJ = AIDummy.o.Win64.Cygwin
 #DUMMY_OBJ = AIDummy.o.Win64.MinGW

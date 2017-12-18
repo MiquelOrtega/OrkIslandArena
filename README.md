@@ -37,6 +37,9 @@ de vegades que ha quedat cert jugador en certa posició, i la seva posició mitj
    - Marti1
    - Marti3
    - Marti5
+   - Marti7
+   - Marti8
+   - Noemi155
 
 - Òscar
   - obs
